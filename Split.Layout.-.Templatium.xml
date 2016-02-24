@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+<head>
+<meta charset='UTF-8'/>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/> 
+<meta content='width=device-width, initial-scale=1.0' name='viewport'/> 
+<title><data:blog.pageTitle/></title>
+<meta content='Blueprint: Split Layout' name='description'/>
+<meta content='website template, layout, css3, transition, effect, split, dual, two sides, portfolio' name='keywords'/>
+<meta content='' name='author'/>
+<link href='http://tympanus.net/Blueprints/SplitLayout/css/demo.css' rel='stylesheet' type='text/css'/>
+<link href='http://tympanus.net/Blueprints/SplitLayout/css/component2.css' rel='stylesheet' type='text/css'/>
+<script src='http://tympanus.net/Blueprints/SplitLayout/js/modernizr.custom.js'/>
+<script type='text/javascript'>
+var _gaq = _gaq || [];
+_gaq.push([&#39;_setAccount&#39;, &#39;UA-7243260-2&#39;]);
+_gaq.push([&#39;_trackPageview&#39;]);
+(function() {
+var ga = document.createElement(&#39;script&#39;); ga.type = &#39;text/javascript&#39;; ga.async = true;
+ga.src = (&#39;https:&#39; == document.location.protocol ? &#39;https://ssl&#39; : &#39;http://www&#39;) + &#39;.google-analytics.com/ga.js&#39;;
+var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+  <b:skin><![CDATA[]]></b:skin>
+</head>
+
+  <body>
+    <b:section id='mian'/>
+<div class='container'>
+			<div class='splitlayout' id='splitlayout'>
+				<div class='intro'>
+					<div class='side side-left'>
+						<header class='codropsheader clearfix'>
+							
+                          <h1>Split Layout</h1>
+							
+						</header>
+						<div class='intro-content'>
+                          <div class='profile'><img alt='profile1' src='http://tympanus.net/Blueprints/SplitLayout/img/profile1.jpg'/></div>
+							<h1><span>Toby Blue </span><span>Web Designer</span></h1>
+						</div>
+						<div class='overlay'/>
+					</div>
+					<div class='side side-right'>
+						<div class='intro-content'>
+                          <div class='profile'><img alt='profile2' src='http://tympanus.net/Blueprints/SplitLayout/img/profile2.jpg'/></div>
+							<h1><span>Amy White </span><span>Web Developer</span></h1>
+						</div>
+						<div class='overlay'/>
+					</div>
+				</div><!-- /intro -->
+				<div class='page page-right'>
+					<div class='page-inner'>
+						<section>
+							<h2>Web Development</h2>
+							<p>Scenario archetype complementary responsive script pixel sidebar sitemap keep it simple. Complementary visuals footer CSS from alan cooper delightful.  Photoshop iconography simplicity user experience affordance narrative ascenders contour.  Slab serif interstitial skeuomorphism illustrator design by committee simplicity alan cooper eye tracking.  Typography contrast mental model typesetting affordance narrative from CSS. Retina simplicity design by committee typography oblique.</p>
+							<p>Delightful ascenders contrast prototype. Ligature jakob nielsen user measure.  Ligature contrast glyph rule of thirds composition interstitial dribbble.  Mental model typography urbanized balance.  Resolution rounded corners IDEO constraints dribbble persona.  Portfolio sketch baseline 66-character line.  Usability testing mental model simplicity aspect ratio pencil type.  Usable sans-serif visualization leading prägnanz baseline pencil fireworks clarity omnigraffle.</p>
+						</section>
+						<section>
+							<h2>Constraints</h2>
+							<p>Card-sorting dropdown constraints alan cooper prägnanz iconography. Stakeholder balsamiq italic vector composition ethnography CSS monospace hierarchy. Eye tracking serif persona focus group.</p>
+							<p>Typesetting artifact rounded corners eye tracking braindump drawer menu mockup dropdown measure. Jony ive eye tracking script monospace heuristic tabs sketches. Affordance eye tracking scenario usable ligature typesetting clarity responsive. Information architecture golden ratio drawer menu header affordance aspect ratio. Balsamiq slab serif IDEO cognitive dissonance kerning pixel pixel-perfect. Pixel rounded corners header workflow portfolio.</p>
+							<p>Scenario navigation complementary jony ive helvetica archetype interstitial serif front-end. Constraints pencil usability gestalt design language mockup usability testing affordance jakob nielsen.</p>
+						</section>
+						<section>
+							<h2>Ligature</h2>
+							<p>Delightful ascenders contrast prototype. Ligature jakob nielsen user measure.  Ligature contrast glyph rule of thirds composition interstitial dribbble.  Mental model typography urbanized balance.  Resolution rounded corners IDEO constraints dribbble persona.  Portfolio sketch baseline 66-character line.  Usability testing mental model simplicity aspect ratio pencil type.  Usable sans-serif visualization leading prägnanz baseline pencil fireworks clarity omnigraffle.</p>
+							<p>Paper prototype urbanized headroom typography splash screen pencil modal branding. Retina omnigraffle objectified descender navigation adobe ethnography. Innovate design by committee modern hero message. Contrast user-centered color theory keep it simple visuals bevel adobe descender splash screen. From focus group accessibility sans-serif archetype pixel-perfect complementary skeuomorphism. Focus group iconography figure-ground navigation user-centered omnigraffle from.</p>
+						</section>
+						<section>
+							<h2>Ligature</h2>
+							<p>Delightful ascenders contrast prototype. Ligature jakob nielsen user measure.  Ligature contrast glyph rule of thirds composition interstitial dribbble.  Mental model typography urbanized balance.  Resolution rounded corners IDEO constraints dribbble persona.  Portfolio sketch baseline 66-character line.  Usability testing mental model simplicity aspect ratio pencil type.  Usable sans-serif visualization leading prägnanz baseline pencil fireworks clarity omnigraffle.</p>
+							<p>Paper prototype urbanized headroom typography splash screen pencil modal branding. Retina omnigraffle objectified descender navigation adobe ethnography. Innovate design by committee modern hero message. Contrast user-centered color theory keep it simple visuals bevel adobe descender splash screen. From focus group accessibility sans-serif archetype pixel-perfect complementary skeuomorphism. Focus group iconography figure-ground navigation user-centered omnigraffle from.</p>
+						</section>
+						<section>
+							<h2>Typesetting</h2>
+							<p>Typesetting artifact rounded corners eye tracking braindump drawer menu mockup dropdown measure. Jony ive eye tracking script monospace heuristic tabs sketches. Affordance eye tracking scenario usable ligature typesetting clarity responsive. Information architecture golden ratio drawer menu header affordance aspect ratio. Balsamiq slab serif IDEO cognitive dissonance kerning pixel pixel-perfect. Pixel rounded corners header workflow portfolio.</p>
+							<p>Fireworks mobile skeuomorphism sitemap. Workflow iconography interaction design pixel-perfect serif. Mental model monospace typeface behavior change bauhaus from usability testing. Color theory user experience paper prototype narrative palette serif gradient header. Oblique modal 66-character line sketch responsive portfolio. Comic sans fireworks prägnanz monospace gradient design language jakob nielsen. Figure-ground pixel aspect ratio sketches rounded corners jony ive constraints mental model splash screen.</p>
+							<p>Placeholder text by <a href='http://www.designeripsum.com/'>Designer Ipsum</a>.</p>
+							<p>Profile images are licensed under a <a href='http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en'>Creative Commons BY-NC-SA 2.0</a> license. The images are from Greg Peverill-Conti&#39;s <a href='http://www.flickr.com/photos/gregpc/'>1,000 faces project</a>.<br/>Blueprint by <a href='http://tympanus.net/codrops/'>Codrops</a>.</p>
+						</section>
+					</div><!-- /page-inner -->
+				</div><!-- /page-right -->
+				<div class='page page-left'>
+					<div class='page-inner'>
+						<section>
+							<h2>Web Design</h2>
+							<p>Scenario archetype complementary responsive script pixel sidebar sitemap keep it simple. Complementary visuals footer CSS from alan cooper delightful.  Photoshop iconography simplicity user experience affordance narrative ascenders contour.  Slab serif interstitial skeuomorphism illustrator design by committee simplicity alan cooper eye tracking.  Typography contrast mental model typesetting affordance narrative from CSS. Retina simplicity design by committee typography oblique.</p>
+							<p>Delightful ascenders contrast prototype. Ligature jakob nielsen user measure.  Ligature contrast glyph rule of thirds composition interstitial dribbble.  Mental model typography urbanized balance.  Resolution rounded corners IDEO constraints dribbble persona.  Portfolio sketch baseline 66-character line.  Usability testing mental model simplicity aspect ratio pencil type.  Usable sans-serif visualization leading prägnanz baseline pencil fireworks clarity omnigraffle.</p>
+						</section>
+						<section>
+							<h2>Responsive</h2>
+							<p>Card-sorting dropdown constraints alan cooper prägnanz iconography. Stakeholder balsamiq italic vector composition ethnography CSS monospace hierarchy. Eye tracking serif persona focus group.</p>
+							<p>Typesetting artifact rounded corners eye tracking braindump drawer menu mockup dropdown measure. Jony ive eye tracking script monospace heuristic tabs sketches. Affordance eye tracking scenario usable ligature typesetting clarity responsive. Information architecture golden ratio drawer menu header affordance aspect ratio. Balsamiq slab serif IDEO cognitive dissonance kerning pixel pixel-perfect. Pixel rounded corners header workflow portfolio.</p>
+							<p>Scenario navigation complementary jony ive helvetica archetype interstitial serif front-end. Constraints pencil usability gestalt design language mockup usability testing affordance jakob nielsen.</p>
+						</section>
+						<section>
+							<h2>Prototype</h2>
+							<p>Delightful ascenders contrast prototype. Ligature jakob nielsen user measure.  Ligature contrast glyph rule of thirds composition interstitial dribbble.  Mental model typography urbanized balance.  Resolution rounded corners IDEO constraints dribbble persona.  Portfolio sketch baseline 66-character line.  Usability testing mental model simplicity aspect ratio pencil type.  Usable sans-serif visualization leading prägnanz baseline pencil fireworks clarity omnigraffle.</p>
+							<p>Paper prototype urbanized headroom typography splash screen pencil modal branding. Retina omnigraffle objectified descender navigation adobe ethnography. Innovate design by committee modern hero message. Contrast user-centered color theory keep it simple visuals bevel adobe descender splash screen. From focus group accessibility sans-serif archetype pixel-perfect complementary skeuomorphism. Focus group iconography figure-ground navigation user-centered omnigraffle from.</p>
+						</section>
+						<section>
+							<h2>Typography</h2>
+							<p>Typesetting artifact rounded corners eye tracking braindump drawer menu mockup dropdown measure. Jony ive eye tracking script monospace heuristic tabs sketches. Affordance eye tracking scenario usable ligature typesetting clarity responsive. Information architecture golden ratio drawer menu header affordance aspect ratio. Balsamiq slab serif IDEO cognitive dissonance kerning pixel pixel-perfect. Pixel rounded corners header workflow portfolio.</p>
+							<p>Fireworks mobile skeuomorphism sitemap. Workflow iconography interaction design pixel-perfect serif. Mental model monospace typeface behavior change bauhaus from usability testing. Color theory user experience paper prototype narrative palette serif gradient header. Oblique modal 66-character line sketch responsive portfolio. Comic sans fireworks prägnanz monospace gradient design language jakob nielsen. Figure-ground pixel aspect ratio sketches rounded corners jony ive constraints mental model splash screen.</p>
+							<p>Placeholder text by <a href='http://www.designeripsum.com/'>Designer Ipsum</a>.</p>
+							<p>Profile images are licensed under a <a href='http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en'>Creative Commons BY-NC-SA 2.0</a> license. The images are from Greg Peverill-Conti&#39;s <a href='http://www.flickr.com/photos/gregpc/'>1,000 faces project</a>.<br/>Blueprint by <a href='http://tympanus.net/codrops/'>Codrops</a>.</p>
+						</section>
+					</div><!-- /page-inner -->
+				</div><!-- /page-left -->
+				<a class='back back-right' href='#' title='back to intro'>&#8594;</a>
+				<a class='back back-left' href='#' title='back to intro'>&#8592;</a>
+			</div><!-- /splitlayout -->
+		</div><!-- /container -->
+		<script src='http://tympanus.net/Blueprints/SplitLayout/js/classie.js'/>
+		<script src='http://tympanus.net/Blueprints/SplitLayout/js/cbpSplitLayout.js'/>
+		<!-- For the demo ad only -->   
+<script src='http://tympanus.net/codrops/adpacks/demoad.js'/>
+</body>
+</html>
